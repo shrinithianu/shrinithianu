@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shri%20Nithi%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20Backend%20%7C%20Web%20Development%20(Java%2C%20Python%2C%20React.js)&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Shri%20Nithi%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20Backend%20%7C%20Web%20Development%20(Java%2C%20React.js)&descAlignY=58&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+%7C+Backend+%7C+Web+Development;Java+%2B+Python+%2B+React.js;B.Sc+Computer+Science+Graduate;Open+to+entry-level+Software+Developer+roles" alt="Typing SVG" />
 
 <br/>
 
 ![B.Sc](https://img.shields.io/badge/B.Sc-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/based%20in-Hosur%2C%20Tamil%20Nadu-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/based%20in-Bangalore%20Karanataka-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
