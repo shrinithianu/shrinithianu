@@ -32,13 +32,13 @@
 ```yaml
 name: Shri Nithi R
 role: Software Developer · Frontend · Backend · Web Development
-focus: Java, Python, React.js, SQL/MySQL
+focus: Java, React.js, SQL/MySQL
 status: Recent B.Sc. Computer Science Graduate, seeking entry-level roles
 ```
 
 </div>
 
-I'm a recent **B.Sc. Computer Science** graduate (MGR College, Periyar University, 2023–2026) with a solid foundation in frontend development, backend development, and web development using Java, Python, SQL, JavaScript, HTML/CSS, and React.js. I enjoy building academic projects across the stack, designing responsive web applications, working with relational databases, and writing clean, maintainable code. Currently seeking an entry-level Software Developer role where I can contribute to building high-quality software solutions.
+I'm a recent **B.Sc. Computer Science** graduate (MGR College, Periyar University, 2023–2026) with a solid foundation in frontend development, backend development, and web development using Java, SQL, JavaScript, HTML/CSS, and React.js. I enjoy building academic projects across the stack, designing responsive web applications, working with relational databases, and writing clean, maintainable code. Currently seeking an entry-level Software Developer role where I can contribute to building high-quality software solutions.
 
 **🔭 Open To:** Entry-level Software Developer roles · Frontend · Backend · Web Development opportunities
 
@@ -50,7 +50,7 @@ I'm a recent **B.Sc. Computer Science** graduate (MGR College, Periyar Universit
 
 **Languages**
 
-![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=js)
+![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js)
 
 **Web**
 
