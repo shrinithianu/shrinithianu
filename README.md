@@ -127,7 +127,7 @@ I'm a recent **B.Sc. Computer Science** graduate (MGR College, Periyar Universit
 
 | Qualification | Institution | Year | Score |
 |---|---|---|---|
-| B.Sc. Computer Science | MGR College, Periyar University | 2023–2026 | 70% |
+| B.Sc. Computer Science | MGR College, Periyar University | 2023–2026 | 72.9% |
 | HSC | Government Higher Secondary School | 2023 | 62% |
 | SSLC | Bethel Matriculation School | 2021 | — |
 
